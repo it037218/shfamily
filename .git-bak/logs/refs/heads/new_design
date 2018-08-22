@@ -1,0 +1,63 @@
+0000000000000000000000000000000000000000 4dfda94ee795a06fb808a6101916aaaba6186958 miandry <miandrilala9@yahoo.fr> 1481596825 +0800	branch: Created from refs/remotes/origin/new_design
+4dfda94ee795a06fb808a6101916aaaba6186958 efcd24e2075d9afff6a887ae74e17d3ab05d2d30 miandry <miandrilala9@yahoo.fr> 1481596852 +0800	merge home_page_up: Merge made by the 'recursive' strategy.
+efcd24e2075d9afff6a887ae74e17d3ab05d2d30 19ab96359b5146448cf57afe08adef92c0791736 miandry <miandrilala9@yahoo.fr> 1481601348 +0800	merge home_page_up_2: Fast-forward
+19ab96359b5146448cf57afe08adef92c0791736 375fcd5ac505aec99f8ca5e297e41446f69838ef miandry <miandrilala9@yahoo.fr> 1481678988 +0800	pull origin new_design: Fast-forward
+375fcd5ac505aec99f8ca5e297e41446f69838ef f41ee30afaf0979e740c4cdbbfac4ef212b02e10 miandry <miandrilala9@yahoo.fr> 1481679008 +0800	merge home_page_up_2: Merge made by the 'recursive' strategy.
+f41ee30afaf0979e740c4cdbbfac4ef212b02e10 cf9c405a6ab47dad47966b9cb3e096ecbbde76ca miandry <miandrilala9@yahoo.fr> 1481709251 +0800	merge directory_up: Fast-forward
+cf9c405a6ab47dad47966b9cb3e096ecbbde76ca e003520524b3891a4822c97eeccaed79de55e96a miandry <miandrilala9@yahoo.fr> 1481774442 +0800	pull origin new_design: Fast-forward
+e003520524b3891a4822c97eeccaed79de55e96a 26e75bae172356a49c1b8899b7643f15c7b92861 miandry <miandrilala9@yahoo.fr> 1481774458 +0800	merge directory_up: Fast-forward
+26e75bae172356a49c1b8899b7643f15c7b92861 db198976686d08274f61bb1898b156118aa6fef8 miandry <miandrilala9@yahoo.fr> 1481792767 +0800	commit: header school page
+db198976686d08274f61bb1898b156118aa6fef8 c434317c46c2e278a9ffdc523f38fce4b4c3ffa3 miandry <miandrilala9@yahoo.fr> 1481853274 +0800	commit: css
+c434317c46c2e278a9ffdc523f38fce4b4c3ffa3 4589c6c13fc0e9db37cc0488d1bc0261648fa5a6 miandry <miandrilala9@yahoo.fr> 1481867014 +0800	commit: fix image style
+4589c6c13fc0e9db37cc0488d1bc0261648fa5a6 114a597899c7b5f47a5e4267b65c0aca458a221d miandry <miandrilala9@yahoo.fr> 1482140019 +0800	merge school_up: Fast-forward
+114a597899c7b5f47a5e4267b65c0aca458a221d b52fe29108db5005ce758f8b29b26ecd0eb2342b miandry <miandrilala9@yahoo.fr> 1482140040 +0800	pull origin new_design: Merge made by the 'recursive' strategy.
+b52fe29108db5005ce758f8b29b26ecd0eb2342b 8818e8179cc82791d54df4221e7535bff81a1787 miandry <miandrilala9@yahoo.fr> 1482211048 +0800	commit: school page list done
+8818e8179cc82791d54df4221e7535bff81a1787 2f8b0fb5bba0cbae40becf6391b6fc927110df99 miandry <miandrilala9@yahoo.fr> 1482211409 +0800	commit: js
+2f8b0fb5bba0cbae40becf6391b6fc927110df99 432cc256d3bada0da2d93c354aed1415c6f9c302 miandry <miandrilala9@yahoo.fr> 1482217689 +0800	commit: compare vs remove
+432cc256d3bada0da2d93c354aed1415c6f9c302 51e1e53278b7d47cef8e21c539677537a19a2e93 miandry <miandrilala9@yahoo.fr> 1482226174 +0800	commit: comparator
+51e1e53278b7d47cef8e21c539677537a19a2e93 3d7f8e5eec37f3905acbe4ebd6b37a9cafedd997 miandry <miandrilala9@yahoo.fr> 1482284410 +0800	commit: update
+3d7f8e5eec37f3905acbe4ebd6b37a9cafedd997 5a667d11c7dbd378c1b4d12bc26770800dd7c8c5 miandry <miandrilala9@yahoo.fr> 1482301400 +0800	commit: details_page school
+5a667d11c7dbd378c1b4d12bc26770800dd7c8c5 76a1df401b97380447bc4a4432b72de9fb14b08f miandry <miandrilala9@yahoo.fr> 1482312076 +0800	commit: details page school contact us
+76a1df401b97380447bc4a4432b72de9fb14b08f e150a0c6717c5c4fcc41b00f959597df5413e55b miandry <miandrilala9@yahoo.fr> 1482312116 +0800	pull origin new_design: Merge made by the 'recursive' strategy.
+e150a0c6717c5c4fcc41b00f959597df5413e55b a8e9417e078c866304cef5642955047b50874df0 miandry <miandrilala9@yahoo.fr> 1482370062 +0800	commit: js amap
+a8e9417e078c866304cef5642955047b50874df0 286d75c7f85887969d9909854129fda280f804f1 miandry <miandrilala9@yahoo.fr> 1482374309 +0800	commit: update amap
+286d75c7f85887969d9909854129fda280f804f1 3a2c608df6d2ec7085513091ad23e19d8172ae5a miandry <miandrilala9@yahoo.fr> 1482374377 +0800	commit (merge): merge
+3a2c608df6d2ec7085513091ad23e19d8172ae5a 1e77182f9ff8d3de481d6862dce91c7b05b2d19b miandry <miandrilala9@yahoo.fr> 1482376282 +0800	commit: shool details page only video
+1e77182f9ff8d3de481d6862dce91c7b05b2d19b d91155572cdb068c9690cb4f9b27578f4883102b miandry <miandrilala9@yahoo.fr> 1482386406 +0800	commit: auto complete compare
+d91155572cdb068c9690cb4f9b27578f4883102b a2a223972f8fb4073bc54ada13bd7da499771635 miandry <miandrilala9@yahoo.fr> 1482387066 +0800	commit (merge): comparator auto complementation
+a2a223972f8fb4073bc54ada13bd7da499771635 043cfdb875e4a6d8ad6af4c70a17281de1487009 miandry <miandrilala9@yahoo.fr> 1482391388 +0800	commit: auto completion
+043cfdb875e4a6d8ad6af4c70a17281de1487009 6390e96b8224d60086e5a80a63954df1da0b27a4 miandry <miandrilala9@yahoo.fr> 1482391419 +0800	pull origin new_design: Merge made by the 'recursive' strategy.
+6390e96b8224d60086e5a80a63954df1da0b27a4 11bfc5c0ddd1f3c951243836d97b0473348ea39a miandry <miandrilala9@yahoo.fr> 1482726445 +0800	commit: ok
+11bfc5c0ddd1f3c951243836d97b0473348ea39a 871160fdca50b89466c500f55146f2cf2547c942 miandry <miandrilala9@yahoo.fr> 1482726473 +0800	pull origin new_design: Merge made by the 'recursive' strategy.
+871160fdca50b89466c500f55146f2cf2547c942 8fb4bd7d1d98bb336bafef39000428ee62991ba3 miandry <miandrilala9@yahoo.fr> 1482742293 +0800	commit: js on hover compare item
+8fb4bd7d1d98bb336bafef39000428ee62991ba3 ee40fe40d7902c87eeb2c914435a838fa08ec82b miandry <miandrilala9@yahoo.fr> 1482747867 +0800	commit: onhover compare
+ee40fe40d7902c87eeb2c914435a838fa08ec82b ba5d144e74e29dfb24d2fd081d06f26128d3db0c miandry <miandrilala9@yahoo.fr> 1482747928 +0800	pull origin new_design: Merge made by the 'recursive' strategy.
+ba5d144e74e29dfb24d2fd081d06f26128d3db0c 4a1eed0dae344a4ce00bfd047cb21448552f13b6 miandry <miandrilala9@yahoo.fr> 1482820012 +0800	commit: school comparator design
+4a1eed0dae344a4ce00bfd047cb21448552f13b6 61d388bc28555b3d180c9c7a7737f2a7dfad401e miandry <miandrilala9@yahoo.fr> 1482917959 +0800	commit: school details page
+61d388bc28555b3d180c9c7a7737f2a7dfad401e 4634a8ee94796b733603f340541a855783a14a37 miandry <miandrilala9@yahoo.fr> 1482984465 +0800	commit: btn reset list
+4634a8ee94796b733603f340541a855783a14a37 c378995758682460d64306e18102bbd6cc4cf65a miandry <miandrilala9@yahoo.fr> 1482989357 +0800	commit: event list and directory details page
+c378995758682460d64306e18102bbd6cc4cf65a 5897a1706b9429f4ebc013af7ea50d9bc2812c25 miandry <miandrilala9@yahoo.fr> 1483411540 +0800	commit: event list
+5897a1706b9429f4ebc013af7ea50d9bc2812c25 95e490359308c7b020e82518a874c345bc1874df miandry <miandrilala9@yahoo.fr> 1483416797 +0800	commit: standar item mobile version
+95e490359308c7b020e82518a874c345bc1874df d5c847fa337e9689555306c6524f6628f6cce2b1 miandry <miandrilala9@yahoo.fr> 1483430638 +0800	commit: onhover megamenu
+d5c847fa337e9689555306c6524f6628f6cce2b1 126cba1b367cfd9efddd391d99d2c3a35c926f4e miandry <miandrilala9@yahoo.fr> 1483437545 +0800	commit: search page
+126cba1b367cfd9efddd391d99d2c3a35c926f4e e5d376d3ddbae63c164d22fff549108782465add miandry <miandrilala9@yahoo.fr> 1483448200 +0800	commit: test
+e5d376d3ddbae63c164d22fff549108782465add c6f97f8bbb5d918c5f3dddf4299c293ea63341a5 miandry <miandrilala9@yahoo.fr> 1484214228 +0800	merge check_final: Fast-forward
+c6f97f8bbb5d918c5f3dddf4299c293ea63341a5 fa37fda7be4595a25e284f34f6afa661cc0d59e1 miandry <miandrilala9@yahoo.fr> 1484214999 +0800	commit: fix conflict
+fa37fda7be4595a25e284f34f6afa661cc0d59e1 67d83defc67efd43ed00e6729060d53f932ae6d1 miandry <miandrilala9@yahoo.fr> 1484280723 +0800	commit: fix final
+67d83defc67efd43ed00e6729060d53f932ae6d1 103874f2e844d23080e1e06f1faaf3d36f8454ba miandry <miandrilala9@yahoo.fr> 1484285756 +0800	commit (merge): fix final 4
+103874f2e844d23080e1e06f1faaf3d36f8454ba aa4d38416525296345fbfeab91fb810e1b894f9c miandry <miandrilala9@yahoo.fr> 1484290980 +0800	commit: check final ok
+aa4d38416525296345fbfeab91fb810e1b894f9c ef9842e4f077101f74b1d2186b25c770e95d1020 miandry <miandrilala9@yahoo.fr> 1484291011 +0800	pull origin new_design: Merge made by the 'recursive' strategy.
+ef9842e4f077101f74b1d2186b25c770e95d1020 0785d39ee00e3aa22a2bb2cd8fe9e4247fdcb061 miandry <miandrilala9@yahoo.fr> 1484532260 +0800	pull origin deploy: Merge made by the 'recursive' strategy.
+0785d39ee00e3aa22a2bb2cd8fe9e4247fdcb061 65ad9c7582bba70e2781edbf49b255ad5bb3066c miandry <miandrilala9@yahoo.fr> 1484535351 +0800	commit: dfp for mobile version
+65ad9c7582bba70e2781edbf49b255ad5bb3066c f2fbaee9787bbcd7f160e297176b4bf10ae23138 miandry <miandrilala9@yahoo.fr> 1484535609 +0800	commit: recreat features bean_dfp
+f2fbaee9787bbcd7f160e297176b4bf10ae23138 2a32e0b3e073cd81733a7f6463b4b1f3ceea011c miandry <miandrilala9@yahoo.fr> 1484535636 +0800	pull origin new_design: Merge made by the 'recursive' strategy.
+2a32e0b3e073cd81733a7f6463b4b1f3ceea011c d4d002493266e94e34985ee3b49e838e10660dbb miandry <miandrilala9@yahoo.fr> 1484550214 +0800	commit: required remove
+d4d002493266e94e34985ee3b49e838e10660dbb 5502d0e54a606c5755ff1e8db4320f3698802bea miandry <miandrilala9@yahoo.fr> 1484551585 +0800	commit: field image hide on body
+5502d0e54a606c5755ff1e8db4320f3698802bea c860d5331f90c5421e0fedd283f3045e8d9e43f1 miandry <miandrilala9@yahoo.fr> 1484616106 +0800	pull origin new_design: Fast-forward
+c860d5331f90c5421e0fedd283f3045e8d9e43f1 29cb282becdb75abeccbea87b67ce1f45e301c29 miandry <miandrilala9@yahoo.fr> 1484635828 +0800	pull origin new_design: Fast-forward
+29cb282becdb75abeccbea87b67ce1f45e301c29 ddca9a237a845a863957ea6d03fc2e4f34d5b891 miandry <miandrilala9@yahoo.fr> 1484636075 +0800	commit (merge): merge
+ddca9a237a845a863957ea6d03fc2e4f34d5b891 269b9619fe54c540fb7c204e2567ebac69770018 miandry <miandrilala9@yahoo.fr> 1484640125 +0800	commit: list event item change style
+269b9619fe54c540fb7c204e2567ebac69770018 1f8f5f87d7d3def84d00616f33a506b36151d293 miandry <miandrilala9@yahoo.fr> 1484644275 +0800	merge new_event_page: Fast-forward
+1f8f5f87d7d3def84d00616f33a506b36151d293 6c5f3bc039f92b147bd358cda5d0cd38356beb61 miandry <miandrilala9@yahoo.fr> 1484644297 +0800	pull origin new_design: Merge made by the 'recursive' strategy.
+6c5f3bc039f92b147bd358cda5d0cd38356beb61 2e8e2897d3aeeebab8ab222c57170c9bbfd62046 miandry <miandrilala9@yahoo.fr> 1484650247 +0800	commit: fix event
+2e8e2897d3aeeebab8ab222c57170c9bbfd62046 b8da34a8851a1fe02221af267654d9c2cb105173 miandry <miandrilala9@yahoo.fr> 1484650285 +0800	pull origin new_design: Merge made by the 'recursive' strategy.

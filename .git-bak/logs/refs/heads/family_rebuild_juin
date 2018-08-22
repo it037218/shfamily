@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 5120bc2a5ba18732d825f10b9bbe432964b16163 miandry <miandrilala9@yahoo.fr> 1496714728 +0800	branch: Created from HEAD
+5120bc2a5ba18732d825f10b9bbe432964b16163 cf8b92a73568834ff5ab7bd26d9d29ef48058a28 miandry <miandrilala9@yahoo.fr> 1496743512 +0800	pull origin familyV2: Merge made by the 'recursive' strategy.
+cf8b92a73568834ff5ab7bd26d9d29ef48058a28 4bd1cae3ba661a9ce5cb795a18b2b8fb9a7dac39 miandry <miandrilala9@yahoo.fr> 1496821753 +0800	commit: elasticseaarch integration
+4bd1cae3ba661a9ce5cb795a18b2b8fb9a7dac39 e80f8f6cd28aa5d08c4d9446140568de9bdd5fab miandry <miandrilala9@yahoo.fr> 1496901006 +0800	commit: integre es family
+e80f8f6cd28aa5d08c4d9446140568de9bdd5fab a8157854fa9f62a84bbb00bc870929299906f878 miandry <miandrilala9@yahoo.fr> 1496912647 +0800	commit: es integration
+a8157854fa9f62a84bbb00bc870929299906f878 a88f48ac859ba007aedad0964015f8d365488189 miandry <miandrilala9@yahoo.fr> 1496995434 +0800	commit: save es code
+a88f48ac859ba007aedad0964015f8d365488189 385473922a8e3199666e08c9c7c471f22fa3e8db miandry <miandrilala9@yahoo.fr> 1497242040 +0800	commit: save es article and events
+385473922a8e3199666e08c9c7c471f22fa3e8db bac4d7bf3ca6af5747ab47daeca4a82b084aee9f miandry <miandrilala9@yahoo.fr> 1497260150 +0800	commit: elastic search directory start

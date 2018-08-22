@@ -1,0 +1,34 @@
+[14-Mar-2018 12:06:55 Asia/Hong_Kong] error:Failed connect to 10.28.165.123:9200; Connection timed out
+[14-Mar-2018 12:34:28 Asia/Hong_Kong] error:Failed connect to 10.28.165.123:9200; Connection timed out
+[14-Mar-2018 12:34:32 Asia/Hong_Kong] error:Failed connect to 10.28.165.123:9200; Connection timed out
+[14-Mar-2018 12:50:37 Asia/Hong_Kong] error:Failed connect to 10.28.165.123:9200; Connection timed out
+[14-Mar-2018 12:58:10 Asia/Hong_Kong] error:Failed connect to 10.28.165.123:9200; Connection timed out
+[14-Mar-2018 13:13:01 Asia/Hong_Kong] error:Failed connect to 10.28.165.123:9200; Connection timed out
+[14-Mar-2018 13:20:36 Asia/Hong_Kong] error:Failed connect to 10.28.165.123:9200; Connection timed out
+[14-Mar-2018 13:40:56 Asia/Hong_Kong] error:Failed connect to 10.28.165.123:9200; Connection timed out
+[14-Mar-2018 13:48:37 Asia/Hong_Kong] error:Failed connect to 10.28.165.123:9200; Connection timed out
+[14-Mar-2018 13:50:15 Asia/Hong_Kong] error:Failed connect to 10.28.165.123:9200; Connection timed out
+[14-Mar-2018 14:19:23 Asia/Hong_Kong] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home/wwwroot/dev.shfamily.com/includes/database/database.inc:2227
+Stack trace:
+#0 /home/wwwroot/dev.shfamily.com/includes/database/database.inc(2227): PDOStatement->execute(Array)
+#1 /home/wwwroot/dev.shfamily.com/includes/database/database.inc(697): DatabaseStatementBase->execute(Array, Array)
+#2 /home/wwwroot/dev.shfamily.com/includes/database/database.inc(2406): DatabaseConnection->query('SELECT expire, ...', Array, Array)
+#3 /home/wwwroot/dev.shfamily.com/includes/lock.inc(167): db_query('SELECT expire, ...', Array)
+#4 /home/wwwroot/dev.shfamily.com/includes/lock.inc(146): lock_may_be_available('schema:runtime:...')
+#5 /home/wwwroot/dev.shfamily.com/includes/bootstrap.inc(438): lock_acquire('schema:runtime:...')
+#6 /home/wwwroot/dev.shfamily.com/includes/bootstrap.inc(460): DrupalCacheArray->set(Array)
+#7 [internal function]: DrupalCacheArray->__destruct()
+#8 {main}
+  thrown in /home/wwwroot/dev.shfamily.com/includes/database/database.inc on line 2227
+[14-Mar-2018 14:19:37 Asia/Hong_Kong] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error: 2006 MySQL server has gone away' in /home/wwwroot/dev.shfamily.com/includes/database/database.inc:2227
+Stack trace:
+#0 /home/wwwroot/dev.shfamily.com/includes/database/database.inc(2227): PDOStatement->execute(Array)
+#1 /home/wwwroot/dev.shfamily.com/includes/database/database.inc(697): DatabaseStatementBase->execute(Array, Array)
+#2 /home/wwwroot/dev.shfamily.com/includes/database/database.inc(2406): DatabaseConnection->query('SELECT expire, ...', Array, Array)
+#3 /home/wwwroot/dev.shfamily.com/includes/lock.inc(167): db_query('SELECT expire, ...', Array)
+#4 /home/wwwroot/dev.shfamily.com/includes/lock.inc(146): lock_may_be_available('schema:runtime:...')
+#5 /home/wwwroot/dev.shfamily.com/includes/bootstrap.inc(438): lock_acquire('schema:runtime:...')
+#6 /home/wwwroot/dev.shfamily.com/includes/bootstrap.inc(460): DrupalCacheArray->set(Array)
+#7 [internal function]: DrupalCacheArray->__destruct()
+#8 {main}
+  thrown in /home/wwwroot/dev.shfamily.com/includes/database/database.inc on line 2227

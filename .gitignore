@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+# Ignore configuration files that may contain sensitive information.
+sites/*/settings*.php
+nbproject/
+
+=======
+#ignore configuration files that may contain sensitive information.
+sites/*/settings*.php
+>>>>>>> 3418557bd114230c68c08a31ca0abd1ed4c69892
+
+# Ignore paths that contain user-generated content.
+sites/*/files
+sites/*/private
+<<<<<<< HEAD
+sites/all/modules/custom/ticketing/247cinema_*.zip
+sites/all/modules/custom/ticketing/247cinema_*.sqlite
+.idea/
+
+sites/all/vendor/bin/
+=======
+nbproject
+phpmyadmin/
+phpinfo.php 
+p.php
+lnmp.html 
+ocp.php
+lnmp.gif
+index1.html 
+>>>>>>> 3418557bd114230c68c08a31ca0abd1ed4c69892
