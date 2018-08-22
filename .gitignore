@@ -1,3 +1,4 @@
 sites/default/files/
 .idea
 .gitignore
+sites/all/vendor/apache/log4php
