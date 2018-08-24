@@ -299,9 +299,11 @@ min-height:350px;
     position: relative;
 }
 .content-details-gallery .back_gallery{
-    position: absolute;
-    bottom: 100px;
+    /*position: absolute;*/
+    /*bottom: 100px;*/
     padding: 15px 30px;
+    width: 140px;
+    margin: 0 auto;
     background: #1FAFB1;
     left:8%;
     text-decoration: none;
