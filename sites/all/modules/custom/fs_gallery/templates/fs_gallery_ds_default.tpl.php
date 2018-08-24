@@ -3,7 +3,6 @@
         <input type="hidden" id="status_collapse" value="0" />
         <div id="st-container" class="st-container st-effect-10">
             <div class="main clearfix">
-                <a class="back_gallery hidden  visible-lg" href="/shanghai/gallery"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"> </span><span class="text-back">Back to Gallery</span></a>
 
                 <div class="col-md-4" id="menu-10">
 
@@ -12,6 +11,7 @@
                     <p class="inline"></p>
                     <p class="date text-center"><?php print $item['date']; ?></p>
                     <div class="description text-center"> <?php print $item['desc']; ?></div>
+                    <a class="back_gallery hidden  visible-lg" href="/shanghai/gallery"><span class="glyphicon glyphicon-menu-left" aria-hidden="true"> </span><span class="text-back">Back to Gallery</span></a>
                 </div>
                 <div id="st-trigger-effects" class="column  col-md-8 row">
                     <div class="bs-family-gallery-details" > 
