@@ -5885,7 +5885,6 @@ function drupal_pre_render_markup($elements) {
  * @see element_info()
  */
 function drupal_render_page($page) {
-    echo 1111;exit;
   $main_content_display = &drupal_static('system_main_content_added', FALSE);
 
   // Allow menu callbacks to return strings or arbitrary arrays to render.
